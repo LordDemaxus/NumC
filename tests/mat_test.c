@@ -141,7 +141,7 @@ void sub_test(void) {
   deallocate_matrix(mat1);
   deallocate_matrix(mat2);
 }
-*/
+
 
 void neg_test(void) {
   matrix *result = NULL;
@@ -162,7 +162,7 @@ void neg_test(void) {
   deallocate_matrix(result);
   deallocate_matrix(mat);
 } 
-*/
+
 
 void abs_test(void) {
   matrix *result = NULL;
